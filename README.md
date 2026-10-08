@@ -8,8 +8,8 @@
 - 🔭 I’m currently building projects and improving my problem-solving skills.
 - 🌱 I’m constantly learning new things in **C++, Python, Java, and Cybersecurity**.
 - 💻 I also work with Web Technologies like **TypeScript, JavaScript, Next.js, and Node.js**.
-- 📫 How to reach me: **bhatigaurav276@gmail.com**
-- ⚡ Fun fact: **I eat alot**
+- 📫 How to reach me: **[Your Email Here]**
+- ⚡ Fun fact: **[Add a fun fact about yourself here]**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav160911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gaurav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav160911&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav160911&theme=tokyonight" alt="Gaurav's GitHub Streak" />
 </p>
 
