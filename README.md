@@ -8,8 +8,8 @@
 - 🔭 I’m currently building projects and improving my problem-solving skills.
 - 🌱 I’m constantly learning new things in **C++, Python, Java, and Cybersecurity**.
 - 💻 I also work with Web Technologies like **TypeScript, JavaScript, Next.js, and Node.js**.
-- 📫 How to reach me: **[Your Email Here]**
-- ⚡ Fun fact: **[Add a fun fact about yourself here]**
+- 📫 How to reach me: **bhatigaurav276@gmail.com**
+- ⚡ Fun fact: **I eat alot**
 
 ---
 
